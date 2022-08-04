@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659566123 source:c:\users\maria\desktop\calculatrice\calcule\main.c
+	<stdio.h>
+	<stdlib.h>
+
